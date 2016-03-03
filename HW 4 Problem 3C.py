@@ -1,7 +1,7 @@
 import numpy as np
 
 # First system
-# 4x1 - 1x2 + 2x3 = 40
+# 4x1 - 1x2 + 2x3 + 3x4 = 40
 # -2x2 + 7x3 - 4x4 = -7
 # 6x3 + 5x4 = 4
 # 3x4 = 6
